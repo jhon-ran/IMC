@@ -1,0 +1,15 @@
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\bin\Debug\netstandard2.0\calculadoraIMC.deps.json
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\bin\Debug\netstandard2.0\calculadoraIMC.dll
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\bin\Debug\netstandard2.0\ref\calculadoraIMC.dll
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\bin\Debug\netstandard2.0\calculadoraIMC.pdb
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\calculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\calculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\calculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\calculadoraIMC.AssemblyInfo.cs
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\calculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\calculadoraIMC.dll
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\refint\calculadoraIMC.dll
+C:\Users\jhonn\source\repos\calculadoraIMC\calculadoraIMC\calculadoraIMC\obj\Debug\netstandard2.0\calculadoraIMC.pdb
